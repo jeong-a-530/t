@@ -1,2 +1,2 @@
-<a href="word.html">클릭해주세요</a>
+<a href="index.html">클릭해주세요</a>
 <p>메인페이지로 이동합니다</p>
